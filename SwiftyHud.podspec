@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SwiftyHud'
-  s.version          = '1.0'
-  s.swift_version    = '4.0'
+  s.version          = '1.0.1'
+  s.swift_version    = '4.2'
   s.summary          = 'SwiftyHud is activity loader'
 
 # This description is used to generate tags and improve search results.
