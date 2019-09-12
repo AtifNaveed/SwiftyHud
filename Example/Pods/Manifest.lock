@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyHud (0.1.0)
+
+DEPENDENCIES:
+  - SwiftyHud (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftyHud:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftyHud: 05105a699fe0b91324d5fdcb26b598cc79982d47
+
+PODFILE CHECKSUM: 9011f16778b28c9da642117bef82035e321b8dba
+
+COCOAPODS: 1.7.5
