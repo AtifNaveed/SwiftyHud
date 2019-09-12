@@ -110,26 +110,10 @@ extension UIView {
     func add(view: UIView, left: CGFloat, right: CGFloat, top: CGFloat, bottom: CGFloat) {
         view.translatesAutoresizingMaskIntoConstraints = false
         self.addSubview(view)
-        if #available(iOS 9.0, *) {
-            view.leftAnchor.constraint(equalTo: self.leftAnchor, constant: left).isActive = true
-        } else {
-            // Fallback on earlier versions
-        }
-        if #available(iOS 9.0, *) {
-            view.rightAnchor.constraint(equalTo: self.rightAnchor, constant: right).isActive = true
-        } else {
-            // Fallback on earlier versions
-        }
-        if #available(iOS 9.0, *) {
-            view.topAnchor.constraint(equalTo: self.topAnchor, constant: top).isActive = true
-        } else {
-            // Fallback on earlier versions
-        }
-        if #available(iOS 9.0, *) {
-            view.bottomAnchor.constraint(equalTo: self.bottomAnchor, constant: bottom).isActive = true
-        } else {
-            // Fallback on earlier versions
-        }
+        view.leftAnchor.constraint(equalTo: self.leftAnchor, constant: left).isActive = true
+        view.rightAnchor.constraint(equalTo: self.rightAnchor, constant: right).isActive = true
+        view.topAnchor.constraint(equalTo: self.topAnchor, constant: top).isActive = true
+        view.bottomAnchor.constraint(equalTo: self.bottomAnchor, constant: bottom).isActive = true
     }
 }
 
