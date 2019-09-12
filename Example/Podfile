@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftyHud_Example' do
+  pod 'SwiftyHud', :path => '../'
+
+  target 'SwiftyHud_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
