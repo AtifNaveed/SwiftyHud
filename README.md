@@ -1,3 +1,8 @@
+# Outdated
+
+Use following: https://github.com/AtifNaveed/SwiftyProgressHud 
+
+
 # SwiftyHud
 
 [![CI Status](https://img.shields.io/travis/AtifNaveed/SwiftyHud.svg?style=flat)](https://travis-ci.org/AtifNaveed/SwiftyHud)
