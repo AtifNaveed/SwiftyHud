@@ -1,9 +1,9 @@
-# How to create Pod 
+# How to create & publish Pod
 
 ## Step 1: Install cocoapods
     Command Line > sudo gem install cocoapods
 
-## Step 2: Create Pod
+## Step 2: Create pod
     Command Line > cd / xCode project root path
     Command Line > pod lib create <PodName>
 
