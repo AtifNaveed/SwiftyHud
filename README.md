@@ -31,7 +31,9 @@ Write your pod logic and test using example
     Command Line > pod trunk push ProgressHud.podspec
 
 
-# Outdated
+
+
+# Following pod is Outdated
 
 Use following: https://github.com/AtifNaveed/SwiftyProgressHud 
 
