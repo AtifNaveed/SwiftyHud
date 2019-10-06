@@ -1,11 +1,11 @@
 # How to create Pod
 
 ## Step 1: Install cocoapods (if you don’t have already)
-Command Line > sudo gem install cocoapods
+    Command Line > sudo gem install cocoapods
 
 ## Step 2: Create Pod
-Command Line > cd / Project root path
-Command Line > pod lib create <PodName>
+    Command Line > cd / Project root path
+    Command Line > pod lib create <PodName>
 
 ## Step 3: Write code
 Write your pod logic and test using example
@@ -20,16 +20,15 @@ Write your pod logic and test using example
 -	Push your code on git
 
 ## Step 6: Testing
-Command Line > pod lib lint <PodName>.podspec
+    Command Line > pod lib lint <PodName>.podspec
 
 ## Step 6: Publish
-Command Line > pod trunk <ValidEmailAddress> 'Author Name' --description='about pod'
-Command Line > pod trunk push <PodName>.podspec
+    Command Line > pod trunk <ValidEmailAddress> 'Author Name' --description='about pod'
+    Command Line > pod trunk push <PodName>.podspec
 
 ## Example:
-Command Line > pod trunk atif.gcucs@gmail.com 'Atif Naveed' --description='Network Progress hud'
-Command Line > pod trunk push ProgressHud.podspec
-
+    Command Line > pod trunk atif.gcucs@gmail.com 'Atif Naveed' --description='Network Progress hud'
+    Command Line > pod trunk push ProgressHud.podspec
 
 
 # Outdated
