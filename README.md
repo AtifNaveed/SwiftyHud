@@ -1,30 +1,4 @@
-# Outdated
-
-Use following: https://github.com/AtifNaveed/SwiftyProgressHud 
-
-
-# SwiftyHud
-
-[![CI Status](https://img.shields.io/travis/AtifNaveed/SwiftyHud.svg?style=flat)](https://travis-ci.org/AtifNaveed/SwiftyHud)
-[![Version](https://img.shields.io/cocoapods/v/SwiftyHud.svg?style=flat)](https://cocoapods.org/pods/SwiftyHud)
-[![License](https://img.shields.io/cocoapods/l/SwiftyHud.svg?style=flat)](https://cocoapods.org/pods/SwiftyHud)
-[![Platform](https://img.shields.io/cocoapods/p/SwiftyHud.svg?style=flat)](https://cocoapods.org/pods/SwiftyHud)
-
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
-
-## Installation
-
-SwiftyHud is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod 'SwiftyHud'
-```
-
+# How to create Pod
 
 ## Step 1: Install cocoapods (if you don’t have already)
 Command Line > sudo gem install cocoapods
@@ -56,6 +30,34 @@ Command Line > pod trunk push <PodName>.podspec
 Command Line > pod trunk atif.gcucs@gmail.com 'Atif Naveed' --description='Network Progress hud'
 Command Line > pod trunk push ProgressHud.podspec
 
+
+
+# Outdated
+
+Use following: https://github.com/AtifNaveed/SwiftyProgressHud 
+
+
+# SwiftyHud
+
+[![CI Status](https://img.shields.io/travis/AtifNaveed/SwiftyHud.svg?style=flat)](https://travis-ci.org/AtifNaveed/SwiftyHud)
+[![Version](https://img.shields.io/cocoapods/v/SwiftyHud.svg?style=flat)](https://cocoapods.org/pods/SwiftyHud)
+[![License](https://img.shields.io/cocoapods/l/SwiftyHud.svg?style=flat)](https://cocoapods.org/pods/SwiftyHud)
+[![Platform](https://img.shields.io/cocoapods/p/SwiftyHud.svg?style=flat)](https://cocoapods.org/pods/SwiftyHud)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+SwiftyHud is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'SwiftyHud'
+```
 
 ## Author
 
