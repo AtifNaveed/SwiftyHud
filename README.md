@@ -1,4 +1,4 @@
-# How to create & publish Pod
+# How to create & publish pod
 
 ## Step 1: Install cocoapods
     Command Line > sudo gem install cocoapods
