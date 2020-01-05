@@ -35,7 +35,7 @@ Write your pod logic and test using example
 
 
 
-# Following pod is outdated
+# Following pod is outdated!
 
 Use following: https://github.com/AtifNaveed/SwiftyProgressHud 
 
