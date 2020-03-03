@@ -9,7 +9,7 @@
     Command Line > cd / xCode project root path
     Command Line > pod lib create <PodName>
 
-## Step 3: Write code
+## Step 3: Write code:
 Write your pod logic and test using example
 
 ## Step 4: Update <PodName>.podspec file
