@@ -1,4 +1,4 @@
-# How to create & publish your pod
+# How to create & publish your pod:
 
 - Open terminal and follow steps:
 
