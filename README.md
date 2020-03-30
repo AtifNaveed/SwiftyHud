@@ -2,7 +2,7 @@
 
 - Open terminal and follow steps:
 
-## Step 1: Install cocoapods using gem
+## Step 1: Install cocoapods using gem:
     Command Line > sudo gem install cocoapods
 
 ## Step 2: Select your project root path and create pod
