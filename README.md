@@ -17,7 +17,7 @@ Write your pod logic and test using example
 -	Update/set language version
 -	Update/set deployment target
 
-## Step 5: Push code
+## Step 5: Push code:
 -	Tag your code (Example 1.0.0)
 -	Push your code on git
 
