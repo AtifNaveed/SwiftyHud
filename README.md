@@ -24,7 +24,7 @@ Write your pod logic and test using example
 ## Step 6: Testing:
     Command Line > pod lib lint <PodName>.podspec
 
-## Step 6: Publish
+## Step 6: Publish:
     Command Line > pod trunk <ValidEmailAddress> 'Author Name' --description='about pod'
     Command Line > pod trunk push <PodName>.podspec
 
