@@ -21,7 +21,7 @@ Write your pod logic and test using example
 -	Tag your code (Example 1.0.0)
 -	Push your code on git
 
-## Step 6: Testing
+## Step 6: Testing:
     Command Line > pod lib lint <PodName>.podspec
 
 ## Step 6: Publish
