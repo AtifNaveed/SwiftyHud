@@ -40,7 +40,7 @@ Write your pod logic and test using example
 Use following: https://github.com/AtifNaveed/SwiftyProgressHud 
 
 
-# SwiftyHud
+# SwiftyHud:
 
 [![CI Status](https://img.shields.io/travis/AtifNaveed/SwiftyHud.svg?style=flat)](https://travis-ci.org/AtifNaveed/SwiftyHud)
 [![Version](https://img.shields.io/cocoapods/v/SwiftyHud.svg?style=flat)](https://cocoapods.org/pods/SwiftyHud)
