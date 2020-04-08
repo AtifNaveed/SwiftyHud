@@ -47,7 +47,7 @@ Use following: https://github.com/AtifNaveed/SwiftyProgressHud
 [![License](https://img.shields.io/cocoapods/l/SwiftyHud.svg?style=flat)](https://cocoapods.org/pods/SwiftyHud)
 [![Platform](https://img.shields.io/cocoapods/p/SwiftyHud.svg?style=flat)](https://cocoapods.org/pods/SwiftyHud)
 
-## Example
+## Example:
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
