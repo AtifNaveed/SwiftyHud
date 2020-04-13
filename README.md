@@ -62,7 +62,7 @@ it, simply add the following line to your Podfile:
 pod 'SwiftyHud'
 ```
 
-## Author
+## Author:
 
 AtifNaveed, atif.gcucs@gmail.com
 
