@@ -66,6 +66,6 @@ pod 'SwiftyHud'
 
 AtifNaveed, atif.gcucs@gmail.com
 
-## License
+## License:
 
 SwiftyHud is available under the MIT license. See the LICENSE file for more info.
